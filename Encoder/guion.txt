@@ -1,0 +1,14 @@
+#Para que se utilizan los encoders?
+-Los escoders son utilizados para mediciones de velocidad angular y sentido de giro de una rueda
+#Funcionamiento
+-Para lograr medir dichos parametros se utilizan dos sensores de efecto hall colocaldos a 90grados, como se ve en la diapositiva
+-debido al campo magnetico variable es posible determinar la velocidad de giro.
+#Pros y contras
+-La mayor ventaja de estos encoders es que no se ven tan afectados por
+-factores climaticos como (lluvia, viento)
+-condensacion del agua
+-pero son muy suceptibles a campos magneticos externos que sean cercanos al campo
+-que queremos medir
+-su implementacion electronica es simple ya que se necesitan 2 sensores de efecto hall
+-y elementos pasivos
+-Por el mismo precio de un encoder optico la presion es menor.
